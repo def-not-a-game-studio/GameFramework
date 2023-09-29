@@ -1,19 +1,19 @@
 {
-    "name": "com.defnotagamestudio.gameframework",
-    "displayName": "Game Framework",
-    "version": "0.0.1",
-    "unity": "2022.3",
-    "description": "GameFramework core package",
-    "keywords": [],
-    "category": "",
-    "author": {
-      "name": "Definetely Not a Game Studio",
-      "email": "daniloleemes@hotmail.com",
-      "url": "https://github.com/def-not-a-game-studio"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/def-not-a-game-studio/GameFramework.git",
-      "directory": "com.def-not-a-game-studio.gameframework"
-    }
+  "name": "com.defnotagamestudio.gameframework",
+  "displayName": "Game Framework",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "GameFramework core package",
+  "keywords": [],
+  "category": "",
+  "author": {
+    "name": "Definetely Not a Game Studio",
+    "email": "daniloleemes@hotmail.com",
+    "url": "https://github.com/def-not-a-game-studio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/def-not-a-game-studio/GameFramework.git",
+    "directory": "com.defnotagamestudio.gameframework"
   }
+}
